@@ -1,4 +1,4 @@
-# Hi, I'm Mahi 👋
+# Hi, I'm Mahi Garg
 
 B.Tech student in **AI & ML at IGDTUW, Delhi** (CGPA 9.64). I build RAG systems and ML pipelines, and I care about making them secure, fast and explainable.
 
